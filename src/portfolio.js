@@ -22,7 +22,7 @@ export const main = {
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://media-exp1.licdn.com/dms/image/C5603AQHVzLojqrfTZA/profile-displayphoto-shrink_200_200/0/1647765545017?e=1656547200&v=beta&t=I3Wsb8fLRu_OvKzOOC9ae-ZPOe3ufutQp9xoVxC3OQA",
+    "https://user-images.githubusercontent.com/95959029/189178117-6894baab-3aa4-4038-8452-37eecb54bb20.png",
   p1: "Hey, My name is Ashish Kumar Dwivedi. I have completed my Graduation in BTech (Electronics and Communications Engineering) from Cochin University of Science & Technology,Kochi India.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like listening music and exploring new places.",
